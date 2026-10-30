@@ -1,0 +1,11 @@
+{
+  "project": "NARRADOR IA MX",
+  "version": "0.1.0",
+  "game": "FC Mobile",
+  "commentators": {
+    "narrador_1": true,
+    "narrador_2": true
+  },
+  "mode": "both",
+  "language": "es-MX"
+}
